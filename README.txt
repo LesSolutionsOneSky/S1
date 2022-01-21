@@ -1,8 +1,6 @@
-#### S1
-
+S1
 
 The following are the instruction to deploy S1 Agent on Workstations and servers;
-
 these are both Powershell functions calling the script from this repository
 
 Screenconnect Deployment
